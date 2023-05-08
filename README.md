@@ -1,2 +1,3 @@
 # .github.gio
-borba
+uradio sam koliko sam mogao, nisam bas uspeo da se snadjem sa html/css
+
