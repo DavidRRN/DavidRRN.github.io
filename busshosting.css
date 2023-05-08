@@ -1,0 +1,341 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400|Martel+Sans:400|Palanquin:400|Inter:400|Alegreya+Sans+SC:400|Prompt:400|Space+Mono:400|Domine:400|Titillium+Web:400|Crete+Round:400|Trirong:400|Hind+Guntur:400|Volkhov:400|Kanit:400|Playfair+Display+SC:400|Anaheim:400|Cormorant:400");
+
+.desktop-3 {
+  align-items: flex-start;
+  background-color: #5D8887;
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.overlap-group {
+  height: 1024px;
+  position: relative;
+  width: 1451px;
+}
+
+.rectangle-55 {
+  background-color: #04AB94;
+  border-radius: 40px 0px 40px 0px;
+  height: 30px;
+  left: 513px;
+  position: absolute;
+  top: 179px;
+  width: 160px;
+}
+
+.biznis-ssd-hosting-pvalign-text-middle{
+  color: white;
+  font-family: var(--font-family-martel_sans);
+  font-size: large;
+  font-weight: 400;
+  height: 176px;
+  left: 153px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 282px;
+  width: 1132px;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.blogvalign-text-middleprompt-normal-white-16px {
+  height: 24px;
+  left: 571px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+}
+
+.professionalvalign-text-middlealegreyasanssc-normal-black-24px {
+  height: 29px;
+  left: 1089px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 557px;
+}
+
+.svi-paketi-imaju-dnevalign-text-middle {
+  color: black;
+  font-family: var(--font-family-palanquin);
+  font-size: large;
+  font-weight: 400;
+  height: 86px;
+  left: 402px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 458px;
+}
+
+.rectangle-53 {
+  background-color: #04AB94;
+  border-radius: 40px 0px 40px 0px;
+  cursor: pointer;
+  height: 30px;
+  left: 290px;
+  position: absolute;
+  top: 179px;
+  width: 160px;
+}
+
+.x25-gb-ssd-25-tb-protokvalign-text-middleprompt-normal-black-16px {
+  height: 174px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 589px;
+}
+
+.rectangle-40 {
+  background-color: #4b7587;
+  border-radius: 50px;
+  height: 113px;
+  left: 290px;
+  position: absolute;
+  top: 55px;
+  width: 860px;
+}
+
+.rectangle-56 {
+  background-color: #04AB94;
+  border-radius: 40px 0px 40px 0px;
+  height: 30px;
+  left: 763px;
+  position: absolute;
+  top: 179px;
+  width: 160px;
+}
+
+.x250-gb-ssd-250-tb-protvalign-text-middleprompt-normal-black-16px{
+  height: 174px;
+  left: 1019px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 589px;
+}
+
+.kontaktvalign-text-middleprompt-normal-white-16px {
+  height: 24px;
+  left: 1033px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+}
+
+.titlevalign-text-middle {
+  color: white;
+  font-family: var(--font-family-lato);
+  font-size: x-large;
+  font-weight: 400;
+  height: 43px;
+  left: 551px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 89px;
+  white-space: nowrap;
+}
+
+.flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 99px;
+  left: 1085px;
+  position: absolute;
+  top: 909px;
+  width: 332px;
+}
+
+.text {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 332px;
+}
+
+.span0 {
+  color: alto;
+  font-family: var(--font-family-inter);
+  font-size: medium;
+  font-weight: 400;
+}
+
+.rectangle-54 {
+  background-color: #04AB94;
+  border-radius: 40px 0px 40px 0px;
+  height: 30px;
+  left: 990px;
+  position: absolute;
+  top: 179px;
+  width: 160px;
+}
+
+.vezba_1_-_logo-modified-1 {
+  height: 80px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 905px;
+  width: 86px;
+}
+
+.pocetnavalign-text-middleprompt-normal-white-16px {
+  height: 24px;
+  left: 332px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+}
+
+.pib01234567valign-text-middleinter-normal-alto-13px {
+  height: 16px;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 928px;
+}
+
+.x75-gb-ssd-75-tb-protokvalign-text-middleprompt-normal-black-16px {
+  height: 174px;
+  left: 568px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 589px;
+}
+
+.rectangle-39 {
+  background-color: #38464B;
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 866px;
+  width: 1451px;
+}
+
+.rectangle-52 {
+  background-color: #04AB94;
+  border-radius: 50px;
+  height: 240px;
+  left: 1008px;
+  position: absolute;
+  top: 545px;
+  width: 310px;
+}
+
+.rectangle-38 {
+  background-color: #38464B;
+  height: 223px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.progressivevalign-text-middlealegreyasanssc-normal-black-24px{
+  height: 29px;
+  left: 653px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 557px;
+}
+
+.ponudavalign-text-middleprompt-normal-white-16px{
+  height: 24px;
+  left: 809px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 181px;
+}
+
+.rectangle-37 {
+  background-color: #5D8887;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rookievalign-text-middlealegreyasanssc-normal-black-24px {
+  height: 29px;
+  left: 239px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 557px;
+}
+
+.rectangle-42 {
+  background-color: #004346;
+  border-radius: 60px 0px 60px 0px;
+  height: 193px;
+  left: 119px;
+  position: absolute;
+  top: 258px;
+  width: 1199px;
+}
+
+.matini-broj-00123435valign-text-middleinter-normal-alto-13px {
+  height: 16px;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 944px;
+}
+
+.rectangle-50 {
+  background-color: #04AB94;
+  border-radius: 50px;
+  height: 240px;
+  left: 122px;
+  position: absolute;
+  top: 545px;
+  width: 310px;
+}
+
+.rectangle-51 {
+  background-color: #04AB94;
+  border-radius: 50px;
+  height: 240px;
+  left: 558px;
+  position: absolute;
+  top: 545px;
+  width: 310px;
+}
+
